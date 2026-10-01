@@ -11,7 +11,6 @@ import org.skypro.skyshop.service.SearchService;
 import org.skypro.skyshop.service.StorageService;
 
 import java.util.List;
-import java.util.UUID;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.mock;
